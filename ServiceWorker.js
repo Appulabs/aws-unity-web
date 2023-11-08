@@ -1,9 +1,9 @@
 const cacheName = "Appulab-AWS WebRequest-0.0.1";
 const contentToCache = [
     "Build/aws-unity-web.loader.js",
-    "Build/aws-unity-web.framework.js.gz",
-    "Build/aws-unity-web.data.gz",
-    "Build/aws-unity-web.wasm.gz",
+    "Build/aws-unity-web.framework.js",
+    "Build/aws-unity-web.data",
+    "Build/aws-unity-web.wasm",
     "TemplateData/style.css"
 
 ];
